@@ -28,7 +28,7 @@ from pycalico.block import BLOCK_PREFIXLEN
 from pycalico.datastore_errors import InvalidBlockSizeError
 
 
-IF_PREFIX = "cali"
+IF_PREFIX = "eth"
 """
 prefix that appears in all Calico interface names in the root namespace. e.g.
 cali123456789ab.
